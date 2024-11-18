@@ -1,5 +1,3 @@
--- THIS WAS MADE BY BoredStuff2 on twitter CREDITS
-
 local isExistance = false
 
 local Notifyt = Instance.new("ScreenGui")
